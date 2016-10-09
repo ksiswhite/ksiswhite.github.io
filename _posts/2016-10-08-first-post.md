@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOLG建成~"
+title:  "BLOG建成~"
 date:   2016-10-8
 excerpt: "利用gihub page+jekyll建立博客"
 tag:
@@ -21,8 +21,8 @@ tag:
 
 ## 关于jekyll
   听起来好高大上的样子，其实就是个模板（反正我是这么觉得的
-  安装RUBY+GEM之后，执行
-  <code>gem install jekyll</code>
+  安装RUBY+GEM之后，执行  
+  <code>gem install jekyll</code>  
   然后去模板网站找个自己喜欢的模板下载下来就好了=。=
   模板主要内容在_config.yml里，然后，然后就没什么了。
 
