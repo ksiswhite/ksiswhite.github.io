@@ -7,6 +7,7 @@ tag:
 - jekyll
 - blog
 ---
-#庆祝
-##一蛤
+# 庆祝
+## 一蛤
 啊啊啊
+<img src="{{ site.url }}/images/home.png" alt="just for test">
