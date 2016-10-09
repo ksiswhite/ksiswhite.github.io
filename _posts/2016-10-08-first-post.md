@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "微博建成~"
-date:   2016-05-29
+title:  "BOLG建成~"
+date:   2016-10-8
 excerpt: "利用gihub page+jekyll建立博客"
 tag:
 - jekyll
 - blog
 ---
-
-#博客建成
-##哈哈
-庆祝一蛤
+#庆祝
+##一蛤
+啊啊啊
