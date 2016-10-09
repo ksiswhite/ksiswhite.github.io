@@ -3,9 +3,6 @@ layout: post
 title:  "BLOG建成~"
 date:   2016-10-8
 excerpt: "利用gihub page+jekyll建立博客"
-tag:
-- jekyll
-- blog
 ---
 # 博客建成
 
