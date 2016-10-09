@@ -101,6 +101,14 @@
       border-color: mix($white, #55acee, 25%);
     }
   }
+  &_weibo {
+    background-color: #dc4e41;
+    color: $white !important;
+    &:hover {
+      background-color: mix($white, #dc4e41, 25%);
+      border-color: mix($white, #dc4e41, 25%);
+    }
+  }
 }
 a.btn {
   text-decoration: none;
