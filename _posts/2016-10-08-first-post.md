@@ -21,7 +21,7 @@ excerpt: "利用gihub page+jekyll建立博客"
 ## 关于jekyll
   听起来好高大上的样子，其实就是个模板（反正我是这么觉得的
   安装RUBY+GEM之后，执行  
-  <code>gem install jekyll</code>  
+  <code align='center'>gem install jekyll</code>  
   然后去模板网站找个自己喜欢的模板下载下来就好了=。=
   模板主要内容在_config.yml里，然后，然后就没什么了。
 
