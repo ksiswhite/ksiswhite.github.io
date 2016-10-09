@@ -14,7 +14,7 @@ tag:
   首先要注册一个Github账号（废话  
   然后呢，在注册的账户下建立一个名为username.github.io的项目，这里的username就是你注册的用户名。
   就像这样  
-  <img src="{{ site.url }}/images/1.png" alt="Create a new repository">
+  <img src="{{ site.url }}/images/postimage/2016-10-08-first-post/1.png" alt="Create a new repository">
   然后嘞就是在电脑上装个Github的客户端然后Clone the repository。
   clone到本机后，创建一个index.html到本机，并且通过Github的客户端同步（PS：在同步前记得先COMMIT TO MASTER!!)  
   测试一下，访问username.github.io。哇好神奇诶，居然成功了（mdzz
