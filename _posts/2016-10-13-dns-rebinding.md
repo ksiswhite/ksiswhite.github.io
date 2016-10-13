@@ -2,7 +2,7 @@
 layout: post
 title: "Web:DNS Rebinding & WebRTC 漏洞"
 date:   2016-10-13
-excerpt: ""
+excerpt: "对DNS Rebinding和WebRTC漏洞的机制和利用进行了详细描述，并给出了一个利用这2个漏洞进行的实际攻击"
 tag:
 - Web
 ---
