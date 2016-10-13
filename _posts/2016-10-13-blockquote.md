@@ -7,7 +7,7 @@ tag:
 - CSS
 - HTML
 ---
-<p>　　在写前一条博客的神秘代码的时候，发现在<blockquote>标签内，未实现自动换行，神秘代码就一大长串的在一行内显示，简直不能忍，所以就搜索了一下解决方案，找到了这个:</p>
+<p>　　在写前一条博客的神秘代码的时候，发现在&lt;blockquote&gt;标签内，未实现自动换行，神秘代码就一大长串的在一行内显示，简直不能忍，所以就搜索了一下解决方案，找到了这个:</p>
 <blockquote>
 <p>blockquote{<br>  　　margin:0;<br>  　　padding:0;<br>  　　border:0;<br>  　　font:inherit;<br>  　　font-size:100%;<br>  　　<strong>white-space: pre-wrap;      /* css-3 */</strong><br>  　　<strong>white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */</strong><br>  　　<strong>white-space: -pre-wrap;      /* Opera 4-6 */</strong><br>  　　<strong>white-space: -o-pre-wrap;    /* Opera 7 */</strong><br>  　　<strong>word-wrap:break-word;    /* ie */</strong><br>  　　<strong>overflow:hidden;</strong><br>  　　vertical-align:baseline<br>}</p>
 </blockquote>
