@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "CSS&HTML:关于<blockquote>标签自动换行以及<a>标签新窗口打开"
+title: "CSS&HTML:关于&lt;blockquote&gt;标签自动换行以及&lt;a&gt;标签新窗口打开"
 date:   2016-10-12
-excerpt: "通过修改CSS文件，使<blockquote>标签实现自动换行，通过添加属性使<a>标签实现链接新窗口打开"
+excerpt: "通过修改CSS文件，使&lt;blockquote&gt;标签实现自动换行，通过添加属性使&lt;a&gt;标签实现链接新窗口打开"
 tag:
 - CSS
 - HTML
