@@ -25,8 +25,8 @@ sass:
   sass_dir:         assets/_sass
   style:            compressed
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
+ Google Analytics
+google-analytics: UA-86433717-1
 
 # Social Links
 email:             darrick626@sina.com
