@@ -25,7 +25,7 @@ sass:
   sass_dir:         assets/_sass
   style:            compressed
 
- Google Analytics
+# Google Analytics
 google-analytics: UA-86433717-1
 
 # Social Links
