@@ -39,7 +39,7 @@
     vertical-align: middle;
   }
   .content {
-    height: 75%;
+    height: 80%;
   }
 }
 .block-right {
@@ -325,6 +325,7 @@ canvas {
 
 
 .friendly-link{
+  text-align: center;
   height: 100%;
 }
 
@@ -441,41 +442,8 @@ canvas {
   }
 }
 
-.about-info{
+.about-info,.friendly-link {
   text-align: left;
-  h1,
-  h2 {
-    font-size: 35px;
-    color: lighten($black, 27.8431);
-    &:after {
-      position: absolute;
-      left: auto;
-      top: auto;
-      -webkit-transform: none;
-      -moz-transform: none;
-      -ms-transform: none;
-      -o-transform: none;
-      transform: none;
-      background: $green;
-      left: 0;
-      width: 200px;
-    }
-  }
-  p {
-    color: darken($white, 40);
-    font-size: 15px;
-    font-family: 微软雅黑;
-    margin: 10px 0;
-    padding-top: 0;
-    line-height: 24px;
-    &:first-of-type {
-      padding-top: 35px;
-    }
-  }
-}
-
-.friendly-link {
-  text-align: right;
   h1,
   h2 {
     font-size: 35px;
