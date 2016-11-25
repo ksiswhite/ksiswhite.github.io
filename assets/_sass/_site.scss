@@ -48,6 +48,7 @@
   position: relative;
   display: table;
   > div {
+    display: table-cell;
     vertical-align: middle;
   }
   .content {
@@ -326,7 +327,15 @@ canvas {
 
 .friendly-link{
   text-align: center;
-  height: 100%;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  p {
+    font-size: 21px;
+    line-height: 30px;
+    margin: 10px 0;
+    padding-top: 25px;
+  }
+
 }
 
 .main-info,
@@ -334,7 +343,7 @@ canvas {
   text-align: center;
   max-width: 400px;
   width: 100%;
-  margin: 130px auto;
+  margin: 0 auto;
   h1,
   h2 {
     font-size: 30px;
@@ -442,7 +451,7 @@ canvas {
   }
 }
 
-.about-info,.friendly-link {
+.about-info {
   text-align: left;
   h1,
   h2 {
